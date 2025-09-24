@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Setia Agkasa S.Pi',
+            name: 'Setia Angkasa S.Pi',
             child: 'anak perempuan',
             father: 'Ahmadin (Alm)',
             mother: 'Almuaini',
