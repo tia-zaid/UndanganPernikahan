@@ -87,7 +87,7 @@ export const data = {
         },
     ],
 
-    audio: './src/assets/audio/medley.mp3',
+    audio: './src/assets/audio/1.mp3','./src/assets/audio/2.mp3'
 
     api: 'https://script.google.com/macros/s/AKfycbyw5OmpKIdbs7cc1Q3cjyhxT3V0H46Y6lvVlbMqhphRcVtTu8LE8UHr22FxvLqfwrFXAA/exec',
 
