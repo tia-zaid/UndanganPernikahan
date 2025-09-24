@@ -498,6 +498,33 @@
         header nav a span {
             font-size: 0.7rem;
         }
+.audio button {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: none;
+    background-color: #bdedad;
+    color: #000;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 2rem;
+    bottom: 5rem;
+    cursor: pointer;
+    transform: translateX(200%);
+    transition: 1.5s transform ease;
+}
+
+.audio button.show {
+    transform: translateX(0);
+}
+
+.audio button.active {
+    animation: rotate 3s linear infinite;
+}
+
 
         /* Animations */
         @keyframes upAndDown {
