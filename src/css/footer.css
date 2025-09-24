@@ -22,8 +22,8 @@ footer > div {
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    border-top: 1px solid #000;
+    justify-content: center;
+    border-top: 1px solid #FFFFFF;
     margin-top: 1rem;
     padding-top: 0.6rem;
 }
