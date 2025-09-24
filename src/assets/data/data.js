@@ -75,15 +75,15 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
-            icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            name: 'Setia Angkasa',
+            icon: './src/assets/images/spay.png',
+            rekening: '085313651213'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Setia Angkasa',
             icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            rekening: '0188 0105 9291 501'
         },
     ],
 
