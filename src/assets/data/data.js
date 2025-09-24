@@ -6,7 +6,7 @@ export const data = {
             child: 'anak perempuan',
             father: 'Ahmadin (Alm)',
             mother: 'Almuaini',
-            image: './src/assets/images/cewe.png'
+            image: './src/assets/images/setia.png'
         },
         P: {
             id: 2,
@@ -14,10 +14,10 @@ export const data = {
             child: 'anak laki-laki',
             father: 'Sarbaini',
             mother: 'Lilis Nawati',
-            image: './src/assets/images/cowo.png'
+            image: './src/assets/images/zaid.png'
         },
 
-        couple: './src/assets/images/couple.png'
+        couple: './src/assets/images/tia-zaid.png'
     },
 
     time: {
@@ -45,8 +45,8 @@ export const data = {
     },
 
     link: {
-        calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        calendar: 'https://calendar.app.google/hgtLAb2WwMzUqmUD6',
+        map: 'https://maps.app.goo.gl/JCpqEgzQPcynGQpCA',
     },
 
     galeri: [
@@ -87,9 +87,9 @@ export const data = {
         },
     ],
 
-    audio: './src/assets/audio/wedding.mp3',
+    audio: './src/assets/audio/medley.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbyydz6N4p2VWUG8zsXeURv6ap9RP8a4eC3x6N3x6qTDjMVr1cIBz9S0NsHw2rWvBOSXGg/exec',
+    api: 'https://script.google.com/macros/s/AKfycbyw5OmpKIdbs7cc1Q3cjyhxT3V0H46Y6lvVlbMqhphRcVtTu8LE8UHr22FxvLqfwrFXAA/exec',
 
     navbar: [
         {
