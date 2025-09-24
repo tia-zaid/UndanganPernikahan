@@ -2,19 +2,19 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
-            image: './src/assets/images/cowo.png'
+            name: 'Setia Agkasa S.Pi',
+            child: 'anak perempuan',
+            father: 'Ahmadin (Alm)',
+            mother: 'Almuaini',
+            image: './src/assets/images/cewe.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
-            image: './src/assets/images/cewe.png'
+            name: 'Ahmad Ramadhan Zaid Al Khairi S.T',
+            child: 'anak laki-laki',
+            father: 'Sarbaini',
+            mother: 'Lilis Nawati',
+            image: './src/assets/images/cowo.png'
         },
 
         couple: './src/assets/images/couple.png'
@@ -22,26 +22,26 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2025',
+            month: 'Oktober',
+            date: '18',
+            day: 'Sabtu',
             hours: {
-                start: '08.00',
-                finish: 'Selesai'
+                start: '09.00',
+                finish: '10.30'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
+            year: '2025',
+            month: 'Oktober',
+            date: '18',
             day: 'Kamis',
             hours: {
-                start: '11.00',
-                finish: 'Selesai'
+                start: '10.30',
+                finish: '12.00'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Jalan Tanjung Jati No. 25, Desa Tanjung Jati, Kecamatan Pesisir Selatan, Kabupaten Pesisir Barat, Provinsi Lampung'
     },
 
     link: {
